@@ -10,7 +10,7 @@ class BrewNpm < Formula
 
   def install
     lib.install Dir["lib/*"]
-    bin.install "bin/brew-npm"
+    bin.install "exe/brew-npm"
   end
 
   test do
