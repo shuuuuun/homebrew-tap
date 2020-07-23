@@ -1,8 +1,8 @@
 class BrewNpm < Formula
   desc "Install npm packages as Homebrew formula"
   homepage "https://github.com/shuuuuun/brew-npm"
-  url "https://github.com/shuuuuun/brew-npm/archive/v0.1.0.tar.gz"
-  sha256 "8b06b8a7b09ceae9d3491c3c5a954d7f3fe1c5d22c57f18f4289e2444a1dac41"
+  url "https://github.com/shuuuuun/brew-npm/archive/v0.1.1.tar.gz"
+  sha256 "cc618c82f2c5fed5a0b7cf63ebaf19e4411f74afc8940f934be60af2eb13f17b"
   license "MIT"
   head "https://github.com/shuuuuun/brew-npm.git"
 
