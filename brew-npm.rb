@@ -6,8 +6,6 @@ class BrewNpm < Formula
   license "MIT"
   head "https://github.com/shuuuuun/brew-npm.git"
 
-  bottle :unneeded
-
   def install
     lib.install Dir["lib/*"]
     bin.install "exe/brew-npm"
